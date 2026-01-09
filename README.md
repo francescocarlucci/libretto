@@ -43,8 +43,8 @@ If you deposit 1 ETH today and set an unlock date of 20 years, the ETH can only 
 
 ## Deployed on
 
-- **Mainnet:** *TBD*  
-- **Testnet:** *TBD*
+- **Mainnet:** 0xC2c3603ae32Acc8313b606B36878212a4DfC1300 
+- **Testnet:** 0x3C566f823D63239bBD5FC07b3e01F40fe7054b77
 
 ---
 
