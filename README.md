@@ -35,9 +35,8 @@ If you deposit 1 ETH today and set an unlock date of 20 years, the ETH can only 
 
 ## Future ideas
 
-- Transferable/giftable version of the contract
+- ~Transferable/giftable version of the contract~ Done! (`LibrettoGiftable`)
 - Multi-owner/Multi-Sig version of the contract
-- Open to suggestions :) 
 
 ---
 
