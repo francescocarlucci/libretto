@@ -48,7 +48,6 @@ contract LibrettoGiftable {
         beneficiary = newBeneficiary;
 
         emit BeneficiaryChanged(oldBeneficiary, newBeneficiary);
-
     }
 
     receive() external payable {
